@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="calcite-template,calcitetemplate,common,game-engine,jsql">
+      <option name="implicitConversions" value="true" />
+    </profile>
+    <profile name="sbt 2" modules="jsqltemplate,jsqltemplate.jsql" />
+  </component>
+</project>
